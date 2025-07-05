@@ -5,6 +5,7 @@ A passionate and results-driven Python Software Developer with a knack for build
 I thrive on solving complex problems and bringing innovative ideas to life through code. My academic foundation in Data Science, coupled with practical experience, allows me to approach development with an analytical mindset. I'm always eager to learn and explore new technologies, particularly in AI, DevOps, and security, and contribute to impactful projects.
 
 Let's connect and build something amazing!
+
 📫 How to reach me email me at shubhi17verma@gmail.com
 
 <!---
